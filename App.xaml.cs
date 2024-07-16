@@ -1,4 +1,5 @@
-﻿namespace MecanicoTallerApp
+﻿using Microsoft.Maui.Controls;
+namespace MecanicoTallerApp
 {
 	public partial class App : Application
 	{
